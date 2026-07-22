@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "谛听 - 端侧 AI 安全守护 Agent"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "谛听安全守护主界面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "谛听"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "用于匿名查询链接安全信誉信息"
+    },
+    {
+      "name": "permission_network_reason",
+      "value": "用于检测当前网络连接安全性"
+    },
+    {
+      "name": "permission_bundle_reason",
+      "value": "用于分析已安装应用的权限信息"
+    },
+    {
+      "name": "permission_file_reason",
+      "value": "用于扫描本地文件安全性"
+    },
+    {
+      "name": "permission_notification_reason",
+      "value": "用于在检测到安全风险时主动推送告警"
+    },
+    {
+      "name": "permission_clipboard_reason",
+      "value": "用于检测剪贴板中的链接并自动进行安全分析"
+    },
+    {
+      "name": "permission_background_reason",
+      "value": "用于后台持续守护设备安全，自动检测链接和网络风险"
+    },
+    {
+      "name": "permission_wifi_reason",
+      "value": "用于检测当前Wi-Fi连接的安全性，分析加密类型和风险"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "用于获取Wi-Fi扫描结果以分析网络安全类型"
+    },
+    {
+      "name": "permission_vibrate_reason",
+      "value": "用于在检测到安全风险时提供触感反馈提醒"
+    },
+    {
+      "name": "permission_bluetooth_reason",
+      "value": "用于监控蓝牙连接状态，检测未授权设备配对和连接风险"
+    }
+  ]
+}
